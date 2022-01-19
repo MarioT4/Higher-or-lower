@@ -1,0 +1,33 @@
+.rock {
+  max-width: 700px;
+  margin: auto;display: flex;
+  flex-direction: row;
+  flex-wrap: warp;
+  justify-content: left
+  }
+  .Level2 {
+    max-width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: warp;
+  justify-content: right
+  } 
+
+  .h1{
+    text-align: center;
+  }
+ .
+ /*all css was given by Ada and Salonie 
+  
+  
+  
+  
+  /* .Incorrect1  {
+  max-width: 700px;
+  margin: auto;display: flex;
+  flex-direction: row;
+  flex-wrap: warp;
+  justify-content: left
+  }
+  */
